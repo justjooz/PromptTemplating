@@ -1,4 +1,5 @@
 {
+  "homepage": "https://<github_username>.github.io/<app_repo>"
   "name": "gptpromptjs",
   "version": "0.1.0",
   "private": true,
